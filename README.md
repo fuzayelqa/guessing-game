@@ -1,4 +1,4 @@
-##Number Guessing Game
+## Number Guessing Game ##
 Description
 
 This is a simple Number Guessing Game available in both Python and Java.
