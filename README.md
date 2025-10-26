@@ -56,6 +56,8 @@ def number_guessing_game():
         except ValueError:
             print("Please enter a valid integer.")
 
+<img width="1407" height="643" alt="game-python-ss" src="https://github.com/user-attachments/assets/0ec21f5c-ae02-4988-8d4e-6643c1ebc89a" />
+
 if __name__ == "__main__":
     number_guessing_game()
 
@@ -109,6 +111,9 @@ How to Run (Java):
 
 javac NumberGuessing.java
 java NumberGuessing
+
+<img width="1500" height="804" alt="Game-ss-java" src="https://github.com/user-attachments/assets/98f340b0-48a2-456c-9422-099c2e13434a" />
+
 
 Features
 
