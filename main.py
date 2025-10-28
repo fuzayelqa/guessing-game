@@ -1,6 +1,5 @@
 import random
 
-
 def number_guessing_game():
     MIN_NUMBER = 1
     MAX_NUMBER = 100
@@ -33,3 +32,4 @@ def number_guessing_game():
 
 if __name__ == "__main__":
     number_guessing_game()
+
