@@ -1,5 +1,5 @@
 ## Number Guessing Game ##
-Description
+## Description
  
 This is a simple Number Guessing Game available in both Python and Java.
 The program generates a random number, and the user tries to guess it. The program provides hints if the guess is too high or too low, and congratulates the user when they guess correctly.
